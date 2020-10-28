@@ -6,6 +6,6 @@
 将破解软件` jetbrains-agent.zip`不解压拖到idea中。\
 重启后选择`Activation code`激活方式
 ![](https://gitee.com/shat412/mkimage/raw/master/img/9.png)
-安装参数为`LFq51qqupnaiTNn39w6zATiOTxZI2JYuRJEBlzmUDv4zeeNlXhMgJZVb0q5QkLr+CIUrSuNB7ucifrGXawLB4qswPOXYG7+ItDNUR/9UkLTUWlnHLX07hnR1USOrWIjTmbytcIKEdaI6x0RskyotuItj84xxoSBP/iRBW2EHpOc`
+安装参数为`HbVMaxqQrTt4UvDUk8fhyFT7uRdv48bqJsQMwVFp53YH9PZC9l+ZxAgnA60cLwwhURw/e4DcZZtle4tQzur4yWRk35qghES4JLFlmKty/UNiYh6RZyXeCNPTCvIqxT9HR2YKqQT93be6AfLTcbJwPSLO201g+HbMbg6+aK1MUJI`
  
 点击为IDEA安装后，就完成了IDEA20.2的破解。
