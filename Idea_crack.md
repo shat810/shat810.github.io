@@ -1,4 +1,4 @@
-# IDEA20.2 破解
+# IDEA20.2 破解（已失效）
 首先下载idea20.2版本
 [下载地址](https://www.jetbrains.com/idea/download/#section=windows)
 
